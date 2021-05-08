@@ -1,0 +1,20 @@
+.questionClass h6{
+
+    margin-bottom: 10px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.questionClass label{
+
+    margin-right: 70px;
+}
+
+.questionClass label input{
+
+    margin-right: 10px;
+}
+
+#result_section, #question_section{
+    display: none;
+}
