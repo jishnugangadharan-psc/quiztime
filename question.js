@@ -7,7 +7,7 @@ var q1o4 = "candela"
 var answer1 = "joule"
 
 // question 2 and its options
-var question2 = "question 2"
+var question2 = "2. Who is the architect of indian costitution ?"
 var q2o1 = "optionA"
 var q2o2 = "optionB"
 var q2o3 = "optionC"
